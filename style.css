@@ -11,6 +11,6 @@ td{
     width: 100px;
     height: 100px;
 }
-/* td:hover{
+td:hover{
     background-color: rgb(153, 207, 146,0.1);
-} */
+}
