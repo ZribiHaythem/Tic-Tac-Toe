@@ -22,6 +22,7 @@ $("td").on("click", function () {
       counter++;
     }
   }
+  console.log($('tr')[0].children[0].innerHTML)
 //   checkWin();   
 });
 
